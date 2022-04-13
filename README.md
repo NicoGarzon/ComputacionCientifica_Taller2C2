@@ -1,4 +1,4 @@
-# ComputacionCientifa_Taller2C2
+# ComputaciónCientífica_Taller2C2
 
 Universidad El Bosque 🌳, Facultad de Ingeniería - Ingeniería de Sistemas ⌨.
 
